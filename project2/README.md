@@ -26,7 +26,8 @@ Analyze corporate accounting workflows and produce a professional report documen
 ---
 
 ## 🧩 Tools Used
-- Microsoft Word / PDF for documentation  
+- Microsoft Word / PDF for documentation
+- Microsoft Excel for index computation  
 - Accounting process analysis techniques  
 
 ---
