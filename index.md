@@ -12,5 +12,5 @@ It includes BPMN modeling, Use Case analysis, Class diagrams, mockups, and a cos
 ---
 
 ## 📬 Contact  
-**Email:** your.email@example.com  
-**LinkedIn:** https://www.linkedin.com/in/yourprofile  
+**Email:** martina.agnese@yahoo.it  
+**LinkedIn:** https://www.linkedin.com/in/martinaagnese  
