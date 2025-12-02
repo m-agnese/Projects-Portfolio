@@ -19,11 +19,11 @@ Design and manage a project plan: define tasks, schedule, resources, cash flows 
 
 ---
 
-## 📂 Project Structure & Files (example)
+## 📂 Project Structure & Files
 
 - `/docs` — final project report, documentation  
 - `/analysis` — Excel sheets with cashflows, risk analysis, WBS and task tables  
-- `/planning` — MS Project files (e.g. .mpp), Gantt charts, scheduling files  
+- `/planning` — MS Project file  
 
 > All deliverables are included in this folder.
 
