@@ -1,6 +1,6 @@
 # Integrated Programme Management: Strategic Greenfield Investment and Organizational Transformation
 
-[![Project Type](https://img.shields.io/badge/Discipline-Programme--Management-blue.svg)](Greenfield%20Automotive%20Project%20Plan/docs/Programme%20Charter.docx)
+[![Project Type](https://img.shields.io/badge/Discipline-Programme--Management-blue.svg)](docs/Programme%20Charter.docx)
 [![Goal](https://img.shields.io/badge/Business%20Goal-EBITDA%20%2B5%25-brightgreen.svg)](#programme-strategic-goals)
 [![Total Programme Cost](https://img.shields.io/badge/Cost%20Estimate-~%E2%82%AC25.1M-orange.svg)](#programme-financial-summary)
 
