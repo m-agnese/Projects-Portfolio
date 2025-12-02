@@ -1,6 +1,6 @@
 # Ethical Food Marketplace: System Analysis and Design for a Multi-Role E-commerce Platform
 
-[![Documentation Status](https://img.shields.io/badge/Project_Type-System%20Analysis%20%26%20Design-blue.svg)](/docs)
+[![Documentation Status](https://img.shields.io/badge/Project_Type-System%20Analysis%20%26%20Design-blue.svg)](/docs/BPMN.pdf)
 [![Methodology](https://img.shields.io/badge/Methodology-UML%2C%20BPMN%2C%20UCD-orange.svg)](#methodologies-tools-used)
 
 ## 1. Project Overview
