@@ -11,7 +11,7 @@
 | **Author** | Martina Agnese |
 | **Degree** | **MSc, Industrial Engineering, Management - AI & Innovation** (110/110 cum laude) |
 | **Institution** | Politecnico di Torino |
-| **Supervisor (Relatrice)** | Prof. Elisa Ughetto |
+| **Supervisor** | Prof. Elisa Ughetto |
 
 ***
 
