@@ -12,11 +12,11 @@ Comprehensive system analysis and modeling project: includes diagrams, mockups, 
 
 ### 📄 Project Management — Project  
 Project planning and management: includes timeline, cashflow & risk analysis, WBS, scheduling, and final deliverables.  
-👉 **[Open project folder](project3/README.md)**
+👉 **[Open project folder](Greenfield%20Automotive%20Proect%20Plan/README.md)**
 
 ### 📄 Industrial Plants — Project  
 Industrial plant design and analysis: includes plant computations, layout schematics, and technical documentation.  
-👉 **[Open project folder](project4/README.md)**
+👉 **[Open project folder](Surgical%20Mask%20Plant%20Design/README.md)**
 
 ---
 
