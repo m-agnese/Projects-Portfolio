@@ -57,3 +57,29 @@ The analysis provides actionable strategic insights into how non-financial facto
 4.  Climate Change Performance Index: Analysis and Imputation
 5.  **The Statistical Impact of ESG and CCPI on Green Energy and Venture Capital Investment (Core Analytical Chapter)**
 6.  Conclusions
+
+***
+
+## 🐍 Python Scripts Included
+
+This repository also contains the Python scripts used for **data preprocessing** and **machine learning modeling**:
+
+### 1. `scripts/preprocess.py`
+- Performs **group-wise and global KNN imputation** to fill missing values in the CCPI dataset.
+- Saves the fully imputed dataset as `data_processed/CCPI_DATASET.xlsx`.
+- Input file: `data/CCPI_DB.xlsx` (original dataset, optional if unavailable).
+
+### 2. `scripts/train_model.py`
+- Loads the preprocessed dataset.
+- Applies **preprocessing**, **feature selection** (via SHAP), and **hyperparameter tuning** using Optuna.
+- Trains an **XGBoost model** to predict missing CCPI values.
+- Saves:
+  - Predictions: `results/Predicted_CCPI_Values.xlsx`
+  - Model artifacts: `models/preprocessor.pkl`, `models/selected_features.pkl`, `models/final_xgb_ccpi_model.pkl`
+
+### Usage
+
+```bash
+pip install -r requirements.txt      # Install dependencies
+python scripts/preprocess.py          # Run preprocessing
+python scripts/train_model.py         # Train model and predict missing values
